@@ -1,5 +1,7 @@
 # 🎮 Tic-Tac-Toe Game in C
 
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+
 A simple 2-player Tic-Tac-Toe game built using the C programming language. This project is a console-based implementation of the classic game, designed to run in any terminal or command prompt.
 
 ---
