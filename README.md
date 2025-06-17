@@ -72,6 +72,11 @@ Player 1 (X) wins!
 
 
 ```
+## 🎬 Demo Video
+
+Watch the full gameplay demo of the Tic-Tac-Toe game:
+
+[![Watch the video](https://img.youtube.com/vi/FTgMzuvVcA8/0.jpg)](https://www.youtube.com/watch?v=FTgMzuvVcA8)
 
 
  ### 🙋‍♂️ Author
